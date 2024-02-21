@@ -1,4 +1,4 @@
-people=1
+people=2
 wife=7
 cat_wife=7
 kitten_cat=7
